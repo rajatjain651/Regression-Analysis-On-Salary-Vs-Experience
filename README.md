@@ -8,7 +8,7 @@ On application of different regression algorithms we got this as output.
 
 Decision tree - 150000 USD
 
-Rabndom Forest - 167000
+Random Forest - 167000
 
 SVR - 170370
 
